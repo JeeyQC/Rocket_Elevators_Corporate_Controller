@@ -1,0 +1,11 @@
+C:\Users\Nathan\Desktop\Rocket_Elevators_Controller\obj\Debug\netcoreapp2.1\Rocket_Elevators_Controller.csprojAssemblyReference.cache
+C:\Users\Nathan\Desktop\Rocket_Elevators_Controller\obj\Debug\netcoreapp2.1\Rocket_Elevators_Controller.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\Rocket_Elevators_Controller\obj\Debug\netcoreapp2.1\Rocket_Elevators_Controller.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\Rocket_Elevators_Controller\obj\Debug\netcoreapp2.1\Rocket_Elevators_Controller.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\Rocket_Elevators_Controller\bin\Debug\netcoreapp2.1\Rocket_Elevators_Controller.deps.json
+C:\Users\Nathan\Desktop\Rocket_Elevators_Controller\bin\Debug\netcoreapp2.1\Rocket_Elevators_Controller.runtimeconfig.json
+C:\Users\Nathan\Desktop\Rocket_Elevators_Controller\bin\Debug\netcoreapp2.1\Rocket_Elevators_Controller.runtimeconfig.dev.json
+C:\Users\Nathan\Desktop\Rocket_Elevators_Controller\bin\Debug\netcoreapp2.1\Rocket_Elevators_Controller.dll
+C:\Users\Nathan\Desktop\Rocket_Elevators_Controller\bin\Debug\netcoreapp2.1\Rocket_Elevators_Controller.pdb
+C:\Users\Nathan\Desktop\Rocket_Elevators_Controller\obj\Debug\netcoreapp2.1\Rocket_Elevators_Controller.dll
+C:\Users\Nathan\Desktop\Rocket_Elevators_Controller\obj\Debug\netcoreapp2.1\Rocket_Elevators_Controller.pdb
